@@ -1,7 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+
 using AuthBooter.Data;
 using AuthBooter.Data.Entities;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 
 namespace AuthBooter
 {
